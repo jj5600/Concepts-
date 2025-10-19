@@ -18,5 +18,4 @@ Do not rate limit if the power is going to or from cutoff.
 
 Note: Assume this function is called at a rate of 10 Hz.
 
-<img width="1152" height="896" alt="Gemini_Generated_Image_941llx941llx941l" src="https://github.com/user-attachments/assets/b96c205a-d9f8-4c2f-917b-6c58ba451ba1" />
 
