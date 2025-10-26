@@ -9,4 +9,5 @@ Correct output: 0x1A. // binary =
 
 
 <img width="343" height="458" alt="Screenshot 2025-10-25 at 7 08 51 PM" src="https://github.com/user-attachments/assets/13c03934-f057-4980-9421-dbc59f71d6d9" />
+<img width="868" height="1222" alt="image" src="https://github.com/user-attachments/assets/4fdf16ab-415c-4a55-8836-f652d95941b8" />
 
