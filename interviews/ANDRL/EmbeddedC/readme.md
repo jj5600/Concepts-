@@ -1,4 +1,4 @@
-Throttle Setpoint Calculation
+Embedded C Screen: Throttle Setpoint Calculation
 
 Task: Compute the % power setting given the throttle lever angle (TLA).
 
