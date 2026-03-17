@@ -28,6 +28,7 @@ Install a console emulator such as TeraTerm for Windows or iTerm for Mac. This i
 Ensure the relevant STM32L4 MCU firmware package is installed via the STM32CubeMX updater. 
 Step-by-Step Guide
 Part 1: Project Setup and Code Generation (using STM32CubeMX) 
+
 Open STM32CubeMX and start a new project.
 In the Board Selector tab, type and select the board part number: B-L475E-IOT01A.
 Click Start Project.
@@ -40,6 +41,7 @@ Select STM32CubeIDE as your Target IDE from the dropdown menu.
 Ensure the Firmware Package is the correct STM32CubeL4 series version.
 Configure any code generation options as needed, then click Generate Code. This creates a .ioc file and the initial C code files. 
 Part 2: Project Import and Development (using STM32CubeIDE)
+
 Open STM32CubeIDE and choose your workspace.
 From the top menu, navigate to File -> Open Projects from File System.
 In the Import Source screen, select Directory and browse to the location where you saved the project using STM32CubeMX. Select the project folder.
