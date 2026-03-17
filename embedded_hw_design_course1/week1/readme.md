@@ -1,14 +1,17 @@
-week 1 assignment: 
+week 1 assignment:
+
 Reading: 
 These are the required reading texts for this module. You can expect this content to appear in assignments or exams.
 Read  "Complex Systems and Microprocessors"  section 1.2 from the textbook
- Student Learning Outcomes
+
+Student Learning Outcomes
 This assignment is connected to the following student learning outcomes from the syllabus.
 Install STM32CubeIDE and CubeMX
 Run LED blink + UART print on the STM board
 Create a block diagram for the chosen embedded system
 Do you have questions about this assignment?
 Post your questions in the Ask the Instructor Forum, located towards the top of the Modules area of this course.
+
 
 Instructions
 For all lab assignments, use the following file naming format to upload your work: W#_First Name_Last Name.zip
