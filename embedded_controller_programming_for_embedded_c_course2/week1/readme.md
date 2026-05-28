@@ -24,3 +24,9 @@ If you have already received your STM32 Discovery Kit IoT Node, take a look at t
 Think about how hard and it would be to configure the chip, and create the C initialization code, without the proper tools.
 
 What type of GUI-based tools can you imagine would be useful to help configure the I/O pins, and also generate C code? And what type of IDE to use once the code is generated?
+
+Lesson 1 Video 1:
+
+https://www.youtube.com/watch?v=DqYaHUszJYE
+
+
