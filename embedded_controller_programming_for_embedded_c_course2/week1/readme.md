@@ -56,6 +56,48 @@ The PDF document should include screen shots from your system and also clearly s
 
 NOTE: Please name your PDF using this naming convention: UCSD-Embedded-C-Assignment-1-FirstName-LastName.pdf and then submit for grading.
 
+QUIZ:
 
+When comparing Standard C to Embedded C, select the answer below that is FALSE.
+  Standard C and Embedded C are more alike than different 
+  Standard C and Embedded C are dramatically different 
+  The Standard C "Hello World" sends the message to the console, while the "Hello World" of Embedded C blinks an LED.
+  Differences between Standard C and Embedded C relate to low-level hardware demands on Embedded C 
+ 
+Correct answer
+Question 2
+1 / 1 pts
+Embedded C makes extensive use of IOS C99 data types. Select the answer below that is NOT a standard ISO C99 data type
+  uint32_t 
+  int8_t 
+  uint16_t 
+  int_t 
+ 
+Correct answer
+Question 3
+1 / 1 pts
+Select the statement below that is FALSE related to Embedded C memory managment.
+  Embedded C uses virtual memory addresses 
+  Embedded C may have different memory banks, e.g. Flash Memory Bank, RAM Bank #1, RAM Bank #2, etdc. 
+  Embedded C code must fit into memory - no swapping in/out of memory 
+  Embedded C uses physical addresses 
+ 
+Correct answer
+Question 4
+1 / 1 pts
+In this course we will use a tool that is an Embedded C code generation tool for the STM32 MPU family. What is the name of that tool?
+  STMBuilder 
+  B-L475E-IOT01A 
+  STM32CubeIDE 
+  HAL 
+ 
+Correct answer
+Question 5
+1 / 1 pts
+What hardware does this course use to run embedded C code?
+  HAL 
+  Desktop PC 
+  Laptop 
+  B-L475E-IOT01A 
 
 
