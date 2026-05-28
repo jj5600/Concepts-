@@ -3,6 +3,7 @@ We have a very exciting course schedule!
 Check out the topics in each of the nine lessons! Hold on tight --- these nine weeks will go by very fast!
 
 Lesson 1 / Week 1: Introduction
+Intro vid: https://www.youtube.com/watch?v=zdqYl4VC8mk
 
 Embedded C
 STM32CubeIDE
