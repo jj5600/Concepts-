@@ -29,4 +29,33 @@ Lesson 1 Video 1:
 
 https://www.youtube.com/watch?v=DqYaHUszJYE
 
+Video 2: STM32 CUBE IDE installation:
+
+https://www.youtube.com/watch?v=8tiJ3YPLTbs
+
+Lesson 1 Assignment:
+
+This Assignment will certify your Embedded C skills related to the following:
+
+Your skills for downloading and installing the STM32CubeIDE
+Your skills for using the STM32CubeIDE tool to generate code for the STM32 Discovery Board
+Your skills for downloading and running code on the STM32 Discovery Board to blink LED2
+Here are the requirements for this assignment:
+
+=1= Download and install STM32CubeIDE
+=2= Use STM32CubeIDE to generate the default code for the STM32 Discovery Board
+=3= Use STM32CubeIDE to build and run the default code for the STM32 Discovery Board
+
+NOTE! If you have not yet received your STM32 Discovery board, you do not have to run the code. Rather, just build the code and you can run the code later once you receive your STM32 Discovery Board.
+
+To certify that you have completed the above skills, you should create a PDF document similar to the one attached to this assignment.
+
+NOTE! The PDF attached to this document is only a guide/template. It used the older version of STM32CubeMX and not the current STM32CubeIDE. Hence use the PDF only as a guide/template of how your PDF should look, but do not copy the exact steps since it uses the older tool.
+
+The PDF document should include screen shots from your system and also clearly state your name. Use the attached PDF as a template or guide, but you should replace the screen shots with your specific screen shots and your name.
+
+NOTE: Please name your PDF using this naming convention: UCSD-Embedded-C-Assignment-1-FirstName-LastName.pdf and then submit for grading.
+
+
+
 
