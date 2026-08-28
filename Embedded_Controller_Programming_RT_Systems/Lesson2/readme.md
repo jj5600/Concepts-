@@ -6,6 +6,7 @@ https://developer.arm.com/ip-products/processors/cortex-m/cortex-m4#:~:text=The%
 https://www.techspot.com/community/topics/qualcomms-decision-to-remove-integrated-modem-from-snapdragon-865-soc-is-puzzling.259087Links to an external site.
 
 https://semiengineering.com/von-neumann-is-struggling/Links to an external site.
+
 3.) Assn2 Overview:
 Follow these steps to complete this assignment.
 
